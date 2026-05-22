@@ -8,8 +8,8 @@ function random () {
 
 function redirect () {
     if (group < 0.5) {
-        window.location.href = "https://github.com"; // Change this to your desired URL for group A
+        window.location.href = "https://on23grupped.limesurvey.net/689853?lang=de&newtest=Y"; // Survey with timer
     } else {
-        window.location.href = "https://google.com"; // Change this to your desired URL for group B
+        window.location.href = "https://on23grupped.limesurvey.net/672432?lang=de&newtest=Y"; // Survey without timer
     }
 }
