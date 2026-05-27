@@ -8,8 +8,8 @@ function random () {
 
 function redirect () {
     if (group < 0.1) {
-        window.location.href = "https://on23grupped.limesurvey.net/689853?lang=de&newtest=Y"; // Survey with timer
+        window.location.href = "https://on23grupd.limesurvey.net/672432?lang=de&newtest=Y"; // Survey with timer
     } else {
-        window.location.href = "https://on23grupped.limesurvey.net/689853?lang=de&newtest=Y"; // Survey without timer
+        window.location.href = "https://olilili26.limesurvey.net/689853?lang=de&newtest=Y"; // Survey without timer
     }
 }
